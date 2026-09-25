@@ -1,22 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Vincent Gonzalez
+ *UnityID: vjgonza2
+ *Date: 9/25/2026
+ *Assignment: WebpagesGL Lab
+ *Description: Built a webpage with HTML and CSS that includes a photo, a paragraph, a list, a table, and a link.
  */
  
 p {
     font-family: Times;
     font-size: 16px;
-    color:aliceblue
+    color:aliceblue;
 }
 
 .table-border {
     border: 1px solid black;
 }
 
-#photoresize {
+#photo-resize {
     max-width: 250px;
     height: 300px;
 }
